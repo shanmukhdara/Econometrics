@@ -6,7 +6,7 @@
 * Sampling rule : random and independent
   eg: Income of one individuals should impact income of ther individual 
 
-### practically is it possible to collect data of selected individuals over time?
+### practically is it possible to collect all the data of selected individuals over time?
 * If we do have data of all individuals across all time periods, its called balanced panel data, otherwise its unbalanced (we have methods to take care of this)
 
 ### Panel data types 
