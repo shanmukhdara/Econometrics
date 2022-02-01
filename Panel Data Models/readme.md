@@ -53,4 +53,5 @@
 * Consistency 
 * Efficiency
 
+Now Lets try it in R
 Data Source : https://sites.google.com/site/econometricsacademy/econometrics-models/panel-data-models
