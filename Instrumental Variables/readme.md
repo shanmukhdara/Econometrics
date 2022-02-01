@@ -8,7 +8,7 @@ Let us first define a few terms before moving on to instrumental variables
 * Measurement errors in explanatory variables
 * Reverse causality - explanatory variable is caused by dependent variable
 
-**Is it a issue?**
+**Is it an issue?**
 * Yes, primarily for two reasons. If your error term has any patterns, it indicates that we have a missing variable issue this makes the coeffs of regression non reliable. OLS estimators are biased
 
 **Lets see some examples** <br />
