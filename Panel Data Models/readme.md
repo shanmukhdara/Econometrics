@@ -19,7 +19,7 @@
 * Between - variation b/w individuals
 * Within -  variation with in individuals over time
 
-**Overall variation rougly equal to Between variation + Within variation 
+**Overall variation** rougly equal to Between variation + Within variation 
 
 ### Regressors 
 * Varying - varies both with time and individual eg: annual income..
